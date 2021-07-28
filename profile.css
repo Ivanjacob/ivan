@@ -19,7 +19,7 @@ section
 {
 	position: relative;
 	min-height: 100vh;
-	background:url("../images/banner.jpg");
+	background:url("banner.jpg");
 	background-position: right;
 	background-size: cover;
 	display: flex;
@@ -249,7 +249,7 @@ header.sticky ul li a
 /*information on the schools*/
 .schools{
 	background-color: gray;
-	background-image: url("../images/overlay-bg.jpg");
+	background-image: url("overlay-bg.jpg");
 }
 .schools .content
 {
@@ -304,7 +304,7 @@ header.sticky ul li a
 .hobbies
 {
 	background-attachment: scroll;
-	background-image: url("../images/post-1.jpg");
+	background-image: url("post-1.jpg");
 }
 .heading.white
 {	
@@ -638,7 +638,7 @@ header.sticky ul li a
 	{
 		width: 40px;
 		height: 40px;
-		background: url("../images/menu.png");
+		background: url("menu.png");
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: 30px;
@@ -646,7 +646,7 @@ header.sticky ul li a
 	}
 	.toggle.active
 	{
-		background: url("../images/close.png");
+		background: url("close.png");
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: 25px;
